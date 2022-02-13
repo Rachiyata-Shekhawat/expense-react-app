@@ -1,0 +1,23 @@
+.main-form {
+  padding: 17px;
+  text-align: center;
+}
+
+.innerCard {
+  box-shadow: 1px 1px 5px black;
+  border-radius: 17px;
+  padding: 28px;
+  background-color: #ef5a8d;
+}
+
+.addExp {
+  box-shadow: 1px 1px 6px black;
+  border: none;
+  border-radius: 7px;
+  padding: 11px 80px;
+  background-color: #ef5a8d;  
+  font-family: "Fira Sans Condensed", sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  cursor: pointer;
+}

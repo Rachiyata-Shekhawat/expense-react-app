@@ -1,0 +1,12 @@
+.expenseItemDiv {
+  box-shadow: 1px 1px 5px black;
+  border-radius: 17px;
+  padding: 1px 14px;
+  background-color: #ef5a8d;
+}
+
+.fallBack {
+  font-size: 20px;
+  font-weight: 800;
+  text-align: center;
+}

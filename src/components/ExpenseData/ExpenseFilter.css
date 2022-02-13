@@ -1,0 +1,21 @@
+.flex {
+  box-shadow: 1px 1px 5px black;
+  border-radius: 10px;
+  padding: 9px;
+  display: flex;
+  justify-content: flex-end;
+  background-color: #ef5a8d;
+}
+ 
+.flex select {
+  border: none;
+  border-radius: 7px;
+  padding: 5px 11px;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  font-weight: 800;
+ }
+
+ .flex select option {
+  font-size: 14px;
+  font-weight: 800;
+ }

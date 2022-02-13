@@ -1,0 +1,39 @@
+.expenseItem {
+  margin: 14px 0px;
+  border-radius: 7px;
+  padding: 10px 17px;
+  display: flex;
+  justify-content: space-between;
+  background: #eea4bd;;
+  font-weight: 800;
+}
+
+.itemDate {
+  margin-right: 25px;
+  border: 2px solid #f70658;
+  border-radius: 7px;
+  padding: 5px 9px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.itemContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1 1;
+  gap: 1rem;
+}
+
+.itemTitle {
+  flex: 1 1;
+  font-size: 23px;
+}
+
+.itemAmount {
+  border: 2px solid #f70658;
+  border-radius: 7px;
+  padding: 7px;
+}
