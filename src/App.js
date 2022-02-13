@@ -7,13 +7,13 @@ import ExpenseData from "./components/ExpenseData/ExpenseData";
 
 const DummyArray = [
   {
-    id: 'id1',
+    id: "id1",
     titleExpense: "Car",
     amountExpense: 1300,
     dateExpense: new Date(2020, 2, 23),
   },
   {
-    id: 'id1',
+    id: "id1",
     titleExpense: "House",
     amountExpense: 1600,
     dateExpense: new Date(2021, 10, 2),

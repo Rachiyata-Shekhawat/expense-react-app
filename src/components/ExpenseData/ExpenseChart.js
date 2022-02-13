@@ -38,7 +38,6 @@ const ExpenseChart = (props) => {
         />
       ))}
     </div>
-    
   );
 };
 

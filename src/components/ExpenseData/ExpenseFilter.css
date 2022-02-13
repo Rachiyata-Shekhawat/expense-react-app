@@ -6,16 +6,16 @@
   justify-content: flex-end;
   background-color: #ef5a8d;
 }
- 
+
 .flex select {
   border: none;
   border-radius: 7px;
   padding: 5px 11px;
-  font-family: 'Fira Sans Condensed', sans-serif;
+  font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 800;
- }
+}
 
- .flex select option {
+.flex select option {
   font-size: 14px;
   font-weight: 800;
- }
+}
